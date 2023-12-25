@@ -1,0 +1,14 @@
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\obj\Debug\net8.0\Bokhandelsapplikation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\obj\Debug\net8.0\Bokhandelsapplikation.AssemblyInfoInputs.cache
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\obj\Debug\net8.0\Bokhandelsapplikation.AssemblyInfo.cs
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\obj\Debug\net8.0\Bokhandelsapplikation.csproj.CoreCompileInputs.cache
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\bin\Debug\net8.0\Bokhandelsapplikation.exe
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\bin\Debug\net8.0\Bokhandelsapplikation.deps.json
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\bin\Debug\net8.0\Bokhandelsapplikation.runtimeconfig.json
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\bin\Debug\net8.0\Bokhandelsapplikation.dll
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\bin\Debug\net8.0\Bokhandelsapplikation.pdb
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\obj\Debug\net8.0\Bokhandelsapplikation.dll
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\obj\Debug\net8.0\refint\Bokhandelsapplikation.dll
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\obj\Debug\net8.0\Bokhandelsapplikation.pdb
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\obj\Debug\net8.0\Bokhandelsapplikation.genruntimeconfig.cache
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Bokhandelsapplikation\obj\Debug\net8.0\ref\Bokhandelsapplikation.dll

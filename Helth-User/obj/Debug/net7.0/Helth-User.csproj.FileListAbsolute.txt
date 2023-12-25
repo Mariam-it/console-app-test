@@ -1,0 +1,14 @@
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\bin\Debug\net7.0\Helth-User.exe
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\bin\Debug\net7.0\Helth-User.deps.json
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\bin\Debug\net7.0\Helth-User.runtimeconfig.json
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\bin\Debug\net7.0\Helth-User.dll
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\bin\Debug\net7.0\Helth-User.pdb
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\obj\Debug\net7.0\Helth-User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\obj\Debug\net7.0\Helth-User.AssemblyInfoInputs.cache
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\obj\Debug\net7.0\Helth-User.AssemblyInfo.cs
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\obj\Debug\net7.0\Helth-User.csproj.CoreCompileInputs.cache
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\obj\Debug\net7.0\Helth-User.dll
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\obj\Debug\net7.0\refint\Helth-User.dll
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\obj\Debug\net7.0\Helth-User.pdb
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\obj\Debug\net7.0\Helth-User.genruntimeconfig.cache
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Helth-User\obj\Debug\net7.0\ref\Helth-User.dll

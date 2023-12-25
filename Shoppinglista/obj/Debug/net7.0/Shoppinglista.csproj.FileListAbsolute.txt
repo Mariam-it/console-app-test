@@ -1,0 +1,14 @@
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\bin\Debug\net7.0\Shoppinglista.exe
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\bin\Debug\net7.0\Shoppinglista.deps.json
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\bin\Debug\net7.0\Shoppinglista.runtimeconfig.json
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\bin\Debug\net7.0\Shoppinglista.dll
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\bin\Debug\net7.0\Shoppinglista.pdb
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\obj\Debug\net7.0\Shoppinglista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\obj\Debug\net7.0\Shoppinglista.AssemblyInfoInputs.cache
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\obj\Debug\net7.0\Shoppinglista.AssemblyInfo.cs
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\obj\Debug\net7.0\Shoppinglista.csproj.CoreCompileInputs.cache
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\obj\Debug\net7.0\Shoppinglista.dll
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\obj\Debug\net7.0\refint\Shoppinglista.dll
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\obj\Debug\net7.0\Shoppinglista.pdb
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\obj\Debug\net7.0\Shoppinglista.genruntimeconfig.cache
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Shoppinglista\obj\Debug\net7.0\ref\Shoppinglista.dll

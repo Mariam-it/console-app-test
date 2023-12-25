@@ -1,0 +1,14 @@
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\bin\Debug\net7.0\Todo-lista.exe
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\bin\Debug\net7.0\Todo-lista.deps.json
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\bin\Debug\net7.0\Todo-lista.runtimeconfig.json
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\bin\Debug\net7.0\Todo-lista.dll
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\bin\Debug\net7.0\Todo-lista.pdb
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\obj\Debug\net7.0\Todo-lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\obj\Debug\net7.0\Todo-lista.AssemblyInfoInputs.cache
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\obj\Debug\net7.0\Todo-lista.AssemblyInfo.cs
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\obj\Debug\net7.0\Todo-lista.csproj.CoreCompileInputs.cache
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\obj\Debug\net7.0\Todo-lista.dll
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\obj\Debug\net7.0\refint\Todo-lista.dll
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\obj\Debug\net7.0\Todo-lista.pdb
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\obj\Debug\net7.0\Todo-lista.genruntimeconfig.cache
+C:\Users\moust\OneDrive\Desktop\WINN23\C-sharp-test\C-sharp-test\Todo-lista\obj\Debug\net7.0\ref\Todo-lista.dll
